@@ -1,0 +1,16 @@
+{
+    "name": "test",
+    "url": "https://google.com",
+    "index": "index.js",
+    "book": "book.js",
+    "categories": [
+        {
+            "title": "Type1",
+            "data": {}
+        },
+        {
+            "title": "Type2",
+            "data": {}
+        }
+    ]
+}
